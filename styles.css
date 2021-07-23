@@ -937,4 +937,12 @@ footer .hints .hints-wrapper * {
     margin-bottom: 0px;
   }
 }
+
+.github-link a:link {
+	color: white;
+}
+
+.github-link a:visited {
+	color: white;
+}
 /*# sourceMappingURL=styles.css.map */
